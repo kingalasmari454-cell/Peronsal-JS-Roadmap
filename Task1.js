@@ -1,0 +1,2 @@
+const currentDate=new Date();//tip: you have to store the date before print it on the terminal
+console.log('Faisal Alasmari'); console.log('University of Jeddaah'); console.log(); console.log(currentDate.toString());
